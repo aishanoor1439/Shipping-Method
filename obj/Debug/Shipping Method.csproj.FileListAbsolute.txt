@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\Shipping Method\Shipping Method\bin\Debug\Shipping Method.exe.config
+C:\Users\DELL\source\repos\Shipping Method\Shipping Method\bin\Debug\Shipping Method.exe
+C:\Users\DELL\source\repos\Shipping Method\Shipping Method\bin\Debug\Shipping Method.pdb
+C:\Users\DELL\source\repos\Shipping Method\Shipping Method\obj\Debug\Shipping Method.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Shipping Method\Shipping Method\obj\Debug\Shipping Method.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Shipping Method\Shipping Method\obj\Debug\Shipping Method.exe
+C:\Users\DELL\source\repos\Shipping Method\Shipping Method\obj\Debug\Shipping Method.pdb
